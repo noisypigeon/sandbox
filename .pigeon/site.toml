@@ -1,0 +1,6 @@
+template = "blog@1"
+
+[site]
+title = "Sandbox publishing canary"
+description = "Pigeon webhook verification"
+intro = "Canary release A"
